@@ -12,8 +12,7 @@
   },
   "keywords": [
     "localstorage",
-    "html5",
-    "javascript"
+    "html5"
   ],
   "author": "Derek Lieu",
   "license": "MIT",
@@ -31,7 +30,9 @@
     "mocha": "^2.0.1",
     "sinon": "^1.12.1"
   },
-  dependencies: {
+
+  "dependencies": {
     "lodash": "^2.4.1"
-  },
+  }
+
 }
