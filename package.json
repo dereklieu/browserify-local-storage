@@ -4,7 +4,7 @@
   "description": "A module to abstract localstorage with built-in cookie fallbacks",
   "main": "dist/localstorage.js",
   "scripts": {
-    "test": "mocha"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",

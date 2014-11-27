@@ -42,5 +42,6 @@ module.exports = function (grunt) {
 
     });
 
-    grunt.registerTask('default', []);
+    // TODO create a test here that opens a phantom webserver
+    grunt.registerTask('test', []);
 }
